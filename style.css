@@ -9,9 +9,9 @@
     justify-content: space-between;
 }
 #navigation .logo {
-    width: 80px;
-    height: 20px;
-    margin-left: 30px;
+    color: white;
+    font-weight: bold;
+    padding-left: 70px;
 }
 #navigation > ul {
     display: flex;
